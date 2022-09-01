@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "awesometoastpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/manasdevslopes/AwesomeToastPackage.git",
+      "state" : {
+        "revision" : "ffc7f233e5351e36256a26ca80e00b5f48d95219",
+        "version" : "2.1.4"
+      }
+    }
+  ],
+  "version" : 2
+}

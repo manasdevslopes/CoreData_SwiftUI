@@ -1,0 +1,15 @@
+//
+//  Item+CoreDataClass.swift
+//  Reminder
+//
+//  Created by MANAS VIJAYWARGIYA on 01/09/22.
+//
+//
+
+import Foundation
+import CoreData
+
+@objc(Item)
+public class Item: NSManagedObject {
+
+}
